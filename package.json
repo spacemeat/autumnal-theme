@@ -1,0 +1,21 @@
+{
+  "name": "autumnal-theme",
+  "displayName": "autumnal-theme",
+  "description": "A VSCode theme with autumn colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Autumnal",
+        "uiTheme": "hc-black",
+        "path": "./themes/Autumnal-color-theme.json"
+      }
+    ]
+  }
+}
